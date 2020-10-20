@@ -4,5 +4,16 @@ _ABOUT ME :_
 
 <br>__Mathematics Teacher__
 
-https://www.linkedin.com/in/reynoldms/
+[Advance]
+* Python (Jupyter NB, Google Colab)
+* Matlab
+
+[Intermediate]
+* R-Studio
+
+[Working knowledge]
+* Modelling
+* Optimization
+
+<br> More info : https://www.linkedin.com/in/reynoldms/
 
