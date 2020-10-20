@@ -5,7 +5,7 @@ _ABOUT ME :_
 
 __Computer Skills :__
 [Advance]      : Python (Jupyter NB, Google Colab), Matlab
-[Intermediate] : R-Studio
+<br>[Intermediate] : R-Studio
 
 <br> More info : https://www.linkedin.com/in/reynoldms/
 
