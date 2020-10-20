@@ -5,15 +5,10 @@ _ABOUT ME :_
 <br>__Mathematics Teacher__
 
 [Advance]
-* Python (Jupyter NB, Google Colab)
-* Matlab
+<br>Python (Jupyter NB, Google Colab), Matlab
 
 [Intermediate]
-* R-Studio
-
-[Working knowledge]
-* Modelling
-* Optimization
+<br>R-Studio
 
 <br> More info : https://www.linkedin.com/in/reynoldms/
 
